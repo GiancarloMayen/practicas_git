@@ -18,6 +18,5 @@ public class Array_arreglo {
           System.out.println("numero "+(conteo+1)+"="+numeros[conteo][con]);
       }}
 
-    }
-    
+    } 
 }
